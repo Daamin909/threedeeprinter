@@ -31,3 +31,18 @@ i started with the base 4040 and 2040 extrusions.
 <img src="assets/journal/cad_model.jpeg" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
 
 **Total time spent:** 3 hours
+
+### 30th May (day 3): finish frame and almost complete y-axis
+
+i started the day with finishing the the frame. I ended up using a mix of 4040s and 2040s for the base, and 2040s, 2020s for the vertical part. after finishing the frame, I literally had 0 idea how to proceed.
+
+<img src="assets/journal/frame.png" width="400px" alt="pic of fusion 360 with the almost complete frame"></img>
+
+after a bit of reading, searching and watching, I thought to choose parts for my y-axis first. I ended up choosing the bed assembly, heatbed, build plate etc. I also did a bit of reading on linear rails vs rods for the bedslinger. I went with rails in the end. @Souptik on Slack helped me a lot in understand the working of the bed-slinger and provided some very cool youtube videos.
+I finished adding the carriage, heatbed, plate and rails.
+
+<img src="assets/journal/left-y.png" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
+<img src="assets/journal/right-y.png" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
+<img src="assets/journal/bottom-y.png" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
+
+**Total time spent:** 7 hours
