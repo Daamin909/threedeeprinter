@@ -1,10 +1,3 @@
----
-title: "threedeeprinter"
-author: "Daamin Ashai"
-description: "a smart & cool 3d printer"
-created_at: "2025-05-28"
----
-
 # threedeeprinter - a custom 3D printer
 
 ### 28th May (day 1): initial research
