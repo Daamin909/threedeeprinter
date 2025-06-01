@@ -46,3 +46,12 @@ I finished adding the carriage, heatbed, plate and rails.
 <img src="assets/journal/bottom-y.png" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
 
 **Total time spent:** 7 hours
+
+### 31st May (day 4): BOM - making & change of plans
+
+I though of starting on the BOM today, and I was able to find most of the parts and already utilise 1/3rd of my budget 😭. However, I could not find a perfect sized heat bed on Indian sites. I decided to go with a 310mm x 310mm heatbed. But, my build plate was just 256x256, that would be a waste of heat and power :/
+so I ended up changing my build volume to 310㎣.
+
+<img src="assets/journal/bom.png" width="400px" alt="pic of BOM on google sheets"></img>
+
+**Total time spent:** 2 hours
