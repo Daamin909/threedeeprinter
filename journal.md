@@ -62,4 +62,4 @@ I initially thought of using linear rails for the y-axis bed slinger, but my BOM
 
 <img src="assets/journal/rods.png" width="400px" alt="pic of rods on the assembly"></img>
 
-**Total time spent:** 8 hours
+**Total time spent:** 6 hours
