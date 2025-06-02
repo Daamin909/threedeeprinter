@@ -47,7 +47,7 @@ I finished adding the carriage, heatbed, plate and rails.
 
 **Total time spent:** 7 hours
 
-### 31st May (day 4): BOM - making & change of plans
+### 31st May (day 4): making the BOM & change of plans
 
 I though of starting on the BOM today, and I was able to find most of the parts and already utilise 1/3rd of my budget 😭. However, I could not find a perfect sized heat bed on Indian sites. I decided to go with a 310mm x 310mm heatbed. But, my build plate was just 256x256, that would be a waste of heat and power :/
 so I ended up changing my build volume to 310㎣.
@@ -55,3 +55,11 @@ so I ended up changing my build volume to 310㎣.
 <img src="assets/journal/bom.png" width="400px" alt="pic of BOM on google sheets"></img>
 
 **Total time spent:** 2 hours
+
+### 1st June (day 5): - more change of plans & pulley system
+
+I initially thought of using linear rails for the y-axis bed slinger, but my BOM was already so pricy even though I wasn't close to being done. and the fact that rails are so hard to setup for me 😭. I chose rods instead of rails, changed my setup. Removed the original aluminium bed carriage I was buying, and used a square of 2020s instead to make it even cheaper. I installed the stepper motor, did some research on all the parts I had to use, and added the pulleys, belts, mounts, made some custom to be 3D printed mounts. And ended the day with being told that my part is un-printable 😭
+
+<img src="assets/journal/rods.png" width="400px" alt="pic of rods on the assembly"></img>
+
+**Total time spent:** 8 hours
