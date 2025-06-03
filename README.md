@@ -1,3 +1,10 @@
+---
+title: "threedeeprinter"
+author: "Daamin Ashai"
+description: "a smart & cool 3d printer"
+created_at: "2025-05-28"
+---
+
 # threedeeprinter - a custom 3D printer
 
 ### 28th May (day 1): initial research
@@ -39,3 +46,29 @@ I finished adding the carriage, heatbed, plate and rails.
 <img src="assets/journal/bottom-y.png" width="400px" alt="pic of fusion 360 with the 4040 base extrusions"></img>
 
 **Total time spent:** 7 hours
+
+### 31st May (day 4): making the BOM & change of plans
+
+I though of starting on the BOM today, and I was able to find most of the parts and already utilise 1/3rd of my budget 😭. However, I could not find a perfect sized heat bed on Indian sites. I decided to go with a 310mm x 310mm heatbed. But, my build plate was just 256x256, that would be a waste of heat and power :/
+so I ended up changing my build volume to 310㎣.
+
+<img src="assets/journal/bom.png" width="400px" alt="pic of BOM on google sheets"></img>
+
+**Total time spent:** 2 hours
+
+### 1st June (day 5): - more change of plans & pulley system
+
+I initially thought of using linear rails for the y-axis bed slinger, but my BOM was already so pricy even though I wasn't close to being done. and the fact that rails are so hard to setup for me 😭. I chose rods instead of rails, changed my setup. Removed the original aluminium bed carriage I was buying, and used a square of 2020s instead to make it even cheaper. I installed the stepper motor, did some research on all the parts I had to use, and added the pulleys, belts, mounts, made some custom to be 3D printed mounts. And ended the day with being told that my part is un-printable 😭
+
+<img src="assets/journal/rods.png" width="400px" alt="pic of rods on the assembly"></img>
+
+**Total time spent:** 6 hours
+
+### 2nd June (day 6): - finish bed & pulley system
+
+I spent most of my time today making the new updated BOM, I hit $90 so far which is way below what I expected. I'm also designing a diy belt tensioner for the idler-pulley.
+I also finished the bed system, with the 2020s, bed carriage plate, heatbed and build plate. I also finished the custom 3d printed holder for linear bearings on the 2020s
+<img src="assets/journal/one more bom.png" width="400px" alt="bom pic"></img>
+<img src="assets/journal/pic.png" width="400px" alt="bom pic"></img>
+
+**Total time spent:** 4 hours
