@@ -67,8 +67,19 @@ I initially thought of using linear rails for the y-axis bed slinger, but my BOM
 ### 2nd June (day 6): - finish bed & pulley system
 
 I spent most of my time today making the new updated BOM, I hit $90 so far which is way below what I expected. I'm also designing a diy belt tensioner for the idler-pulley.
-I also finished the bed system, with the 2020s, bed carriage plate, heatbed and build plate. I also finished the custom 3d printed holder for linear bearings on the 2020s
+I also finished the bed system, with the 2020s, bed carriage plate, heatbed and build plate. I also finished the custom 3d printed holder for linear bearings on the 2020s.
+
 <img src="assets/journal/one more bom.png" width="400px" alt="bom pic"></img>
 <img src="assets/journal/pic.png" width="400px" alt="bom pic"></img>
 
 **Total time spent:** 4 hours
+
+### 3rd June (day 7): - finished y-axis
+
+started the day, with adapting a idler-pulley holder to my design which is also a belt tensioner, I had to make a few changes to the holder to suit my orientation. cadded most of the fasteners except nuts, to make it easier to make a BOM for them. I also adapted the motor mount to suit my settings, and spent an hour tryna figure out how to connect the belt to my carriage 😭. I ended up using a small plate to hold them together.
+
+<img src="assets/journal/render.png" width="400px" alt="complete y-axis cad render"></img>
+<img src="assets/journal/idler-pulley-belt-tensioner.png" width="400px" alt="idler pulley belt tensioner holder"></img>
+<img src="assets/journal/bonding-plate.png" width="400px" alt="belt and carriage bonding plate"></img>
+
+**Total time spent:** 6 hours
